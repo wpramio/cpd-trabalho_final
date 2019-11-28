@@ -1,0 +1,14 @@
+Como dividir o código em arquivos
+
+Estruturas de dados:
+movies_trie - pesquisa por title, retorna movie_id
+movies_hash - pesquisa por movie_id, retorna movie pointer
+users_hash - pesquisa por user_id, retorna user pointer
+
+Bônus:
+extrair ano do filme, pesquisa por ano
+implementar alguma pesquisa com o tempo
+
+filmes: opcao de guardar generos/tags associadas numa string apenas e fazer pesquisas dentro dessa string OU
+guardar em listas (genres_list/tags_list) OU
+guardar genres_list e deixar as tags com listas de movie_id associados

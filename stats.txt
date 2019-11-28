@@ -1,0 +1,11 @@
+char*
+tempo: 323.335 ms
+memoria: 5953 KB
+
+string
+tempo: 464.146 ms
+memoria usada: 35720 KB
+
+cbc
+tempo: 340.039 ms
+memoria: 5993 KB
